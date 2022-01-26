@@ -6,6 +6,7 @@ public class MobileData {
 	}
 	private void muthu() {
 		System.out.println("i have a:oppo A5 2020");
+		System.out.println("i have:iphone 6s");
 	}
 
 }
